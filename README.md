@@ -6,4 +6,7 @@ The overall intent is to study the NEETS Modules and preserve my understandings,
 
 Expect heavy modifications and overhauls.
 
+#### Module Contents for NEETS Series
+- Module 1: Matter, Energy, and Direct Current
+
 
